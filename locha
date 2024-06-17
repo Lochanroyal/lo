@@ -1,0 +1,20 @@
+$ git fetch --all
+$ git fetch --append
+$ git fetch --multiple
+$ git fetch --dry-run
+
+git remote add repo link https
+
+git fetch repo
+
+git branch a1
+
+git branch -M a1
+
+git checkout -b a2
+
+git branch -d a1
+
+git pull origin main
+
+git reset --soft
